@@ -31,7 +31,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output:
 ```
-![OUTPUT](https://github.com/DHIVYA050430/EIGENVALUES-AND-EIGENVECTORS/assets/147141546/e2b52731-044c-4331-8b13-e7a1f290535d)
+![OUTPUT](https://github.com/DHIVYA050430/EIGENVALUES-AND-EIGENVECTORS/assets/147141546/3759f782-14e1-4ed8-8997-1eb1cedfd607)
+
 ```
 
 ## Result:
