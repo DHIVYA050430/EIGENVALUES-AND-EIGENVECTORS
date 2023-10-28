@@ -23,7 +23,7 @@ End the program
 
 import numpy as np
 
-A = np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
+A = np.array([[2,2],[1,3]])
 
 values,vectors=np.linalg.eig(A)
 
@@ -32,7 +32,6 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ## Output:
 ```
 ![OUTPUT](https://github.com/DHIVYA050430/EIGENVALUES-AND-EIGENVECTORS/assets/147141546/e2b52731-044c-4331-8b13-e7a1f290535d)
-
 ```
 
 ## Result:
