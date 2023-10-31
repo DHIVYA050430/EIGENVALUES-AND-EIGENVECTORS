@@ -15,6 +15,7 @@ Using the np.linalg.eig(),  we get two results (first is eigenvalue and second i
 End the program
 
 ## Program:
+```
 #Program to find the eigen values and eigen vectors.
 
 #Developed by: DIVYA E
@@ -28,6 +29,7 @@ A = np.array([[2,2],[1,3]])
 values,vectors=np.linalg.eig(A)
 
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
+```
 
 ## Output:
 ```
