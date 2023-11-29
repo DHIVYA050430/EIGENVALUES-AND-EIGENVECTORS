@@ -17,17 +17,11 @@ End the program
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-
-#Developed by: DIVYA E
-
+#Developed by: DIVYA E 
 #RegisterNumber: 23011187
-
 import numpy as np
-
-A = np.array([[2,2],[1,3]])
-
-values,vectors=np.linalg.eig(A)
-
+a = np.array([[2,2],[1,3]])
+values,vectors = np.linalg.eig(a)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
